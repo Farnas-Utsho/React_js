@@ -1,0 +1,11 @@
+In Jsx{JavaScriptXml} we have to use classname instead of class
+
+```jsx
+<div className="App">
+  <h1>Hello World</h1>
+
+</div>
+```
+
+### 
+Component : Header , footer , body=>We can use one component in multiple page
